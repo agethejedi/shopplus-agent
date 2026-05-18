@@ -1,0 +1,17 @@
+{
+  "name": "shopplus-agent",
+  "version": "1.0.0",
+  "description": "Shop(+)Plus Playwright agent — handles Walmart automation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.44.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
